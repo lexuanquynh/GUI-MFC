@@ -1,6 +1,8 @@
 # GUI-MFC
 Using GUI on MFC C++
+
 How to use MFC create form in C++.
+
 The sample: plus two number integer.
 
 Video stream on youtobe:
